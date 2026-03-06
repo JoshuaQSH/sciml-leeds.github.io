@@ -1,1 +1,8 @@
+
+
+# Ignore generated site folder
+_site/
+
 /.quarto/
+
+**/*.quarto_ipynb
